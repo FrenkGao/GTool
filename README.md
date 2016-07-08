@@ -45,6 +45,9 @@
 
 ##其他信息
 
-版本：`v1.0`
+GTool版本：`v1.0`
+
+支持 FlexSim 版本：7.0+ 
+7.7+ 提示为老版本制作的用户库，单击确定，继续即可，不影响使用。
 
 如有任何 BUG 或建议，欢迎发送邮件到 `tsgaozhipeng@163.com`；或在 `https://github.com/FrenkGao/GTool` 下载历史版本、反馈信息。
